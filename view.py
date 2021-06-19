@@ -4,6 +4,7 @@ from boards.models import Board,AreaInfo
 from django.conf import settings
 from boards.models import PicTest
 
+#注释图
 #view.py
 
 def areas(request):
